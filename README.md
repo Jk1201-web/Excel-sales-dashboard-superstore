@@ -3,6 +3,8 @@
 This project presents an interactive Sales & Profit Dashboard built in Microsoft Excel using the Superstore dataset. The dashboard helps analyze key business metrics such as sales performance, profit trends, customer profitability, and regional sales distribution.
 The goal of this project is to transform raw sales data into meaningful insights using data visualization and Excel analytics tools.
 ## Dataset
+The dataset used in this project can be found here:
+[Click here to view dataset](https://www.kaggle.com/datasets/saadharoon27/superstore-dataset)
 The dataset contains retail sales data including:
 - Order Date
 - Sales
