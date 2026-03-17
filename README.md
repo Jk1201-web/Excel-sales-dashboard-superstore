@@ -43,7 +43,7 @@ Shows monthly sales trends to identify peak sales periods.
 3 A small group of customers contributes significantly to overall profit.
 4 Certain states generate higher sales compared to others.
 ## Dashboard Preview
-![Sales Dashboard](Sale_dashboard.png)
+![Sales Dashboard](Sale_Dashboard.png)
 ## Project Outcome
 This project demonstrates the ability to:
 1 Transform raw data into interactive dashboards
