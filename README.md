@@ -41,17 +41,17 @@ Identifies the most profitable customers.
 - 7️⃣ Sales by Month
 Shows monthly sales trends to identify peak sales periods.
 ## Key Insights
-- 1 Technology products generate the highest profit contribution.
-- 2 Sales show seasonal growth towards the end of the year.
-- 3 A small group of customers contributes significantly to overall profit.
-- 4 Certain states generate higher sales compared to others.
+- 1) Technology products generate the highest profit contribution.
+- 2) Sales show seasonal growth towards the end of the year.
+- 3) A small group of customers contributes significantly to overall profit.
+- 4) Certain states generate higher sales compared to others.
 ## Dashboard Preview
 ![Sales Dashboard](Sale_Dashboard.png)
 ## Project Outcome
 This project demonstrates the ability to:
-- 1 Transform raw data into interactive dashboards
-- 2 Perform data analysis using Excel
-- 3 Create business insights using visualizations
+- 1) Transform raw data into interactive dashboards
+- 2) Perform data analysis using Excel
+- 3) Create business insights using visualizations
 ## Author
 Jijau Khandale
 Aspiring Data Analyst
