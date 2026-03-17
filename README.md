@@ -5,7 +5,8 @@ The goal of this project is to transform raw sales data into meaningful insights
 ## Dataset
 The dataset used in this project can be found here:
 [Click here to view dataset](https://www.kaggle.com/datasets/saadharoon27/superstore-dataset)
-The dataset contains retail sales data including:
+
+## The dataset contains retail sales data including:
 - Order Date
 - Sales
 - Profit
