@@ -1,5 +1,5 @@
 # Excel-sales-dashboard-superstore
-- [Project Overview](#project-overview)
+- [Project Overview](#https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-overview)
 - [Dataset](#dataset)
 - [Dataset Information](#dataset-inromation)
 - [Tools & Techniques used](#tools-&-techniques-used)
