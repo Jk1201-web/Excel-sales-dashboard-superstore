@@ -1,13 +1,14 @@
 # Excel-sales-dashboard-superstore
--[Project Overview](#-Project-Overview)
--[Dataset](#-Dataset)
--[Dataset Information](#-Dataset-Inromation)
--[Tools & Techniques used](#-Tools-&-Techniques-used)
--[Dashboards](#-Dashboards)
--[Key insights](#-Key-insights)
--[Dashboards preview](#-Dashboards-preview)
--[Project outcome](#-Project-outcome)
--[Author](#-Author)
+- [Project Overview](#-Project-Overview)
+- [Dataset](#-Dataset)
+- [Dataset Information](#-Dataset-Inromation)
+- [Tools & Techniques used](#-Tools-&-Techniques-used)
+- [Dashboards](#-Dashboards)
+- [Key insights](#-Key-insights)
+- [Dashboards preview](#-Dashboards-preview)
+- [Project outcome](#-Project-outcome)
+- [Author](#-Author)
+- 
 ## Project Overview
 This project presents an interactive Sales & Profit Dashboard built in Microsoft Excel using the Superstore dataset. The dashboard helps analyze key business metrics such as sales performance, profit trends, customer profitability, and regional sales distribution.
 The goal of this project is to transform raw sales data into meaningful insights using data visualization and Excel analytics tools.
