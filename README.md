@@ -2,7 +2,7 @@
 - [Project Overview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-overview)
 - [Dataset](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dataset)
 - [Dataset Information](#dataset-inromation)
-- [Tools & Techniques used](#tools-&-techniques-used)
+- [Tools & Techniques used](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#tools--techniques-used)
 - [Dashboards](#dashboards)
 - [Key insights](#key-insights)
 - [Dashboards preview](#dashboards-preview)
