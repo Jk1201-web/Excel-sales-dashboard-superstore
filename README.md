@@ -6,7 +6,7 @@
 - [Dashboards](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-features)
 - [Key insights](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#key-insights)
 - [Dashboards preview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-preview)
-- [Project outcome](#project-outcome)
+- [Project outcome](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-outcome)
 - [Author](#author)
 - 
 ## Project Overview
