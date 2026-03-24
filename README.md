@@ -1,7 +1,7 @@
 # Excel-sales-dashboard-superstore
 - [Project Overview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-overview)
 - [Dataset](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dataset)
-- [Dataset Information](#dataset-inromation)
+- [Dataset Information](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#the-dataset-contains-retail-sales-data-including)
 - [Tools & Techniques used](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#tools--techniques-used)
 - [Dashboards](#dashboards)
 - [Key insights](#key-insights)
