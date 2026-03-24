@@ -7,8 +7,8 @@
 - [Key insights](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#key-insights)
 - [Dashboards preview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-preview)
 - [Project outcome](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-outcome)
-- [Author](#author)
-- 
+- [Author](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#author)
+  
 ## Project Overview
 This project presents an interactive Sales & Profit Dashboard built in Microsoft Excel using the Superstore dataset. The dashboard helps analyze key business metrics such as sales performance, profit trends, customer profitability, and regional sales distribution.
 The goal of this project is to transform raw sales data into meaningful insights using data visualization and Excel analytics tools.
