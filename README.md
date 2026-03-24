@@ -4,7 +4,7 @@
 - [Dataset Information](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#the-dataset-contains-retail-sales-data-including)
 - [Tools & Techniques used](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#tools--techniques-used)
 - [Dashboards](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-features)
-- [Key insights](#key-insights)
+- [Key insights](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#key-insights)
 - [Dashboards preview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-preview)
 - [Project outcome](#project-outcome)
 - [Author](#author)
