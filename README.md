@@ -10,61 +10,120 @@
 - [Author](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#author)
   
 ## Project Overview
-This project presents an interactive Sales & Profit Dashboard built in Microsoft Excel using the Superstore dataset. The dashboard helps analyze key business metrics such as sales performance, profit trends, customer profitability, and regional sales distribution.
-The goal of this project is to transform raw sales data into meaningful insights using data visualization and Excel analytics tools.
+This project presents an interactive **Sales & Profit Dashboard** built in Excel to analyze business performance across categories, customers, regions, and time.
+The dashboard enables stakeholders to monitor key metrics, identify trends, and make data-driven decisions.
+## Objectives
+1. Analyze overall sales and profit performance
+2. Identify top-performing categories and products
+3. Evaluate customer contribution to profit
+4. Understand regional and state-wise sales distribution
+5. Analyze monthly and yearly sales trends
+
 ## Dataset
 The dataset used in this project can be found here:
 [Click here to view dataset](https://www.kaggle.com/datasets/saadharoon27/superstore-dataset)
 
-## The dataset contains retail sales data including:
-- Order Date
-- Sales
-- Profit
-- Product Category
-- Customer Name
-- State
-- Order Year and Month
-This data was used to analyze sales trends, customer performance, and product category contribution.
-## Tools & Techniques Used
+## Key Metrics
+
+| Metric |	Value |
+|------|------|
+| Total Sales |	$1,342,421 |
+| Total Profit | $175,234 |
+| Profit Margin |	~13% |
+| Top Category | Technology |
+| Max Monthly Sales |	~$97K |
+
+## Dashboard Features & Insights
+A. Sales & Profit Overview
+1. **Total Sales** reached **$1.34M+**
+2. **Total Profit** recorded at **$175K+**
+3. **Profit margin** is approximately 13%
+-  Insight: Business is profitable but has scope for margin improvement
+
+B. Category-wise Sales
+1. **Technology category dominates sales** **(~$184K+)**
+2. Followed by Chairs, Storage, and Binders
+-  Insight: Revenue is highly dependent on specific categories
+
+C. Yearly Profit Analysis
+1. Profit increased from 2019 to 2020
+2. Technology segment shows strong growth
+-  Insight: Business performance is improving year-over-year
+
+D. Customer Analysis
+1. Top customers contribute significantly to total profit
+2. Example:
+   - Tamara Chand → **~$8.7K**
+   - Raymond Buch → **~$6.9K**
+-  Insight: A few customers drive a large portion of profit
+
+E. Regional & State-wise Sales
+1. Sales vary widely across states
+2. Range: **$195 to $27K+**
+-  Insight: Some regions underperform and need attention
+
+F. Monthly Sales Trend
+1. Peak sales observed in November & December **(~$97K+)**
+2. Lower sales in early months
+-  Insight: Strong seasonality trend (year-end peak)
+
+## Key Insights Summary
+- Technology category drives majority of revenue
+- Business shows positive growth trend year-over-year
+- Sales peak during year-end months (Nov–Dec)
+- Customer contribution is concentrated among top buyers
+- Regional disparities exist in sales performance
+
+## Business Recommendations
+- Focus on expanding high-performing categories (Technology)
+- Improve sales strategies in low-performing regions
+- Target top customers with loyalty programs
+- Plan inventory for seasonal demand spikes
+- Optimize pricing to improve profit margins
+
+## Tools & Skills Used
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
-- Data Cleaning
-- Data Aggregation
-- Slicers for interactive filtering
+- Data Visualization
 - Dashboard Design
-## Dashboard Features
-The dashboard provides the following key insights:
-- 1️⃣ KPI Metrics
-Total Sales: $13.4M
-Total Profit: $175K
-- 2️⃣ Sales by Category
-Shows which product categories generate the most revenue.
-- 3️⃣ Profit by Year
-Analyzes yearly profit performance across product categories.
-- 4️⃣ Customer Count by Year
-Displays the number of customers contributing to sales each year.
-- 5️⃣ Sales by State
-A geographic visualization highlighting sales distribution across states.
-- 6️⃣ Top 5 Customer Profit
-Identifies the most profitable customers.
-- 7️⃣ Sales by Month
-Shows monthly sales trends to identify peak sales periods.
-## Key Insights
-- 1) Technology products generate the highest profit contribution.
-- 2) Sales show seasonal growth towards the end of the year.
-- 3) A small group of customers contributes significantly to overall profit.
-- 4) Certain states generate higher sales compared to others.
+- Business Analysis
+  
 ## Dashboard Preview
+```
 ![Sales Dashboard](Sale_Dashboard.png)
-## Project Outcome
-This project demonstrates the ability to:
-- 1) Transform raw data into interactive dashboards
-- 2) Perform data analysis using Excel
-- 3) Create business insights using visualizations
-## Author
-Jijau Khandale
-Aspiring Data Analyst
+```
+## How to Use
+1. Open the Excel dashboard file
+2. Use filters (Category, Year, Month)
+3. Interact with charts for detailed insights
+## Project Workflow
+1. Data Collection
+2. Data Cleaning
+3. Data Transformation
+4. Pivot Table Creation
+5. Dashboard Design
+6. Insight Generation
+
+## Project Structure
+```
+Excel-Sales-Dashboard/
+ ┣ Dataset/
+ 
+ ┣ Dashboard/
+ 
+ ┃ ┗ Sales_Dashboard.xlsx
+ 
+ ┣ Images/
+ ┃ ┗ dashboard.png
+ 
+ ┗ README.md
+```
+Connect with Me
+- [LinkedIn](www.linkedin.com/in/jijau-khandale)
+- [GitHub](https://github.com/Jk1201-web)
+- [Kaggle](https://www.kaggle.com/jijaumohankhandale)
+  
+*If you found this project useful, consider giving it a star!*
 
 
 
