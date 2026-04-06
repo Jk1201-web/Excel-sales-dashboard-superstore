@@ -1,13 +1,15 @@
 # Excel-sales-dashboard-superstore
 - [Project Overview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-overview)
-- [Dataset](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dataset)
-- [Dataset Information](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#the-dataset-contains-retail-sales-data-including)
-- [Tools & Techniques used](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#tools--techniques-used)
-- [Dashboards](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-features)
-- [Key insights](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#key-insights)
-- [Dashboards preview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#dashboard-preview)
-- [Project outcome](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#project-outcome)
-- [Author](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore/blob/main/README.md#author)
+- [Objective](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#objectives)
+- [Dataset](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#dataset)
+- [Key Metrics](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#key-metrics)
+- [Dashboard Features & Insights](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#dashboard-features--insights)
+- [Key insights summary](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#key-insights-summary)
+- [Business Recommendation](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#business-recommendations)
+- [Tools & Skills used](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#tools--skills-used)
+- [Dashboard Preview](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#dashboard-preview)
+- [Project Workflow](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#project-workflow)
+- [Project Structure](https://github.com/Jk1201-web/Excel-sales-dashboard-superstore#project-structure)
   
 ## Project Overview
 This project presents an interactive **Sales & Profit Dashboard** built in Excel to analyze business performance across categories, customers, regions, and time.
