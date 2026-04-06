@@ -89,9 +89,9 @@ F. Monthly Sales Trend
 - Business Analysis
   
 ## Dashboard Preview
-```
+
 ![Sales Dashboard](Sale_Dashboard.png)
-```
+
 ## How to Use
 1. Open the Excel dashboard file
 2. Use filters (Category, Year, Month)
